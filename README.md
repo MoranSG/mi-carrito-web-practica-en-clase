@@ -1,2 +1,2 @@
 # mi-carrito-web
-Proyecto carrito de compras para Talento Tech
+Proyecto en clase sobre un carrito de compras para Talento Tech
